@@ -1,4 +1,4 @@
-k# Project name
+# Project name
 PROJECT = kickz_drum
 
 # Project type
